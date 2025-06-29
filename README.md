@@ -3,7 +3,7 @@
 %-------------------------
 % Resume in Latex
 % Author : Mrinmoy Low
-% Website: https://github.com/sb2nov/resume
+% Website: (https://github.com/Mrinmoy2002-prog/Resume-Code.git)
 % License : MIT
 %------------------------
 
